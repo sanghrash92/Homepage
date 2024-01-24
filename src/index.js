@@ -1,0 +1,5 @@
+import './style.css'
+
+const header = document.querySelector('h1');
+
+console.log(header);
